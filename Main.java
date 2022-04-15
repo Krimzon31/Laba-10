@@ -16,7 +16,7 @@ public class Main {
             System.out.println("Корректный IP-адрес: " + m.group());
         }
         else {
-            System.out.println("IP-адрес в строке не коректен");
+            System.out.println("IP-адрес в строке не корректен");
         }
     }
 }
